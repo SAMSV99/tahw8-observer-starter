@@ -7,7 +7,7 @@ YOUR_GRADER_BADGE looks like this: https://kntu-grader.herokuapp.com/minimal?rep
 
 # Assignment discription
 
-<alt dir="rtl" align="right">
+<p dir='rtl' align='right'>
 
 
 
@@ -39,4 +39,4 @@ Soldier
   https://github.com/kntu-ce-mag/issue-19
   
   
-  </alt>
+  </p>
